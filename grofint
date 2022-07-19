@@ -2,6 +2,8 @@ grofint - git repos of interest - march 2022
 
 [aws]
 adrian cantrill - https://github.com/acantril # great aws study material
+aws-samples - https://github.com/aws-samples/aws-security-reference-architecture-examples
+awslabs - https://github.com/awslabs/aws-security-assessment-solution
 
 [networking]
 openvpn - https://github.com/OpenVPN/easy-rsa
@@ -14,3 +16,7 @@ pluralsight course - https://github.com/DanWahlin/NodeExpressMongoDBDockerApp
 
 [kubernetes]
 pluralsight course - https://github.com/DanWahlin/DockerAndKubernetesCourseCode
+coredns - https://github.com/coredns
+
+[rust]
+sharkdp - https://github.com/sharkdp/bat 
